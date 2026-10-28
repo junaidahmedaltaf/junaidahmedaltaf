@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi, I'm Junaid Ahmed 👋</h1>
+<h1 align="center">Hi👋, I'm Junaid Ahmed</h1>
 
 <h3 align="center">Frontend Developer | React.js, Next.js & React Native</h3>
 
