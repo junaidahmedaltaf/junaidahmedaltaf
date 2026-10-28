@@ -1,70 +1,67 @@
-
-<h1 align="center">Hi👋, I'm Junaid Ahmed</h1>
-
-<h3 align="center">Frontend Developer | React.js, Next.js & React Native</h3>
+<h1 align="center">Hi, I'm Junaid Ahmed 👋</h1>
 
 <p align="center">
-  Building modern, responsive web and mobile applications.
+  <strong>Frontend Developer · React.js · Next.js · React Native</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/junaidahmedaltaf">
-    <img src="https://img.shields.io/badge/GitHub-junaidahmedaltaf-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+  I build responsive web interfaces and cross-platform mobile apps,<br />
+  with a focus on reusable components and clean, maintainable code.
+</p>
+
+<p align="center">
+  Karachi, Pakistan · Open to development opportunities
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/junaid-ahmed-altaf/">
+    <img src="https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge" alt="Connect with Junaid on LinkedIn" />
   </a>
-  <a href="https://pk.linkedin.com/in/junaid-ahmed-altaf">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <a href="#selected-projects">
+    <img src="https://img.shields.io/badge/Explore-Selected_projects-238636?style=for-the-badge" alt="Explore selected projects" />
   </a>
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## Selected Projects
 
-- 💻 Frontend Developer specializing in React.js and Next.js.
-- 📱 Building cross-platform mobile applications with React Native.
-- 🎨 Focused on responsive UI, reusable components, and clean code.
-- 🔗 Portfolio: [Tools Hub](https://tools-hub-one.vercel.app/)
-- 📍 Based in Karachi, Pakistan.
-- 🤝 Open to exciting development opportunities.
+### Group Retreats
 
-## 🛠️ Tech Stack
+**Group accommodation · Property discovery**
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux,git,github" alt="Frontend technologies"/>
-</p>
+A website for discovering group holiday homes through destination and themed collections, with search options for location, dates, amenities, and guest count.
 
-## 🚀 Featured Projects
+[View website →](https://groupretreats.co.uk/)
 
-### 1. Tools Hub
-A collection of useful web tools.
+### Veltor Helmets
 
-- **Tech:** Add the technologies actually used in this project.
-- **Live Demo:** [Visit Tools Hub](https://tools-hub-one.vercel.app/)
+**Helmet storefront · Product browsing**
 
-### 2. Veltor Helmets
-A helmet-focused web project.
+A helmet storefront featuring a searchable product catalog, category filters, and product detail pages with size and color options.
 
-- **Tech:** Add the technologies actually used in this project.
-- **Live Demo:** [Visit Veltor Helmets](https://veltor-helmets.vercel.app/)
+[Explore demo →](https://veltor-helmets.vercel.app/)
 
-### 3. Group Retreats
-A website for discovering group retreat properties.
+### Tools Hub / ToolSphere
 
-- **Tech:** Add the technologies actually used in this project.
-- **Live Demo:** [Visit Group Retreats](https://groupretreats.co.uk/)
+**Browser utilities · Developer tools**
 
-## 📊 GitHub Stats
+A collection of browser-based utilities for everyday development and content tasks, including JSON formatting and validation, word and character counting, and Base64 encoding and decoding.
+
+[Try the tools →](https://tools-hub-one.vercel.app/)
+
+## Tech Stack
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=junaidahmedaltaf&show_icons=true&hide_border=true&theme=github_dark" alt="GitHub statistics"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,html,css,git,github&amp;perline=10" alt="React, Next.js, TypeScript, JavaScript, Tailwind CSS, Redux, HTML5, CSS3, Git, and GitHub" />
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junaidahmedaltaf&layout=compact&hide_border=true&theme=github_dark" alt="Most used languages"/>
-</p>
+**Web & mobile:** React.js, Next.js, React Native  
+**Languages & styling:** JavaScript, TypeScript, HTML5, CSS3, Tailwind CSS  
+**State & workflow:** Redux, Git, GitHub
 
----
+## Let's Connect
 
-<p align="center">
-  <b>Thanks for visiting my profile! 🚀</b>
-</p>
+I'm open to frontend and React Native development opportunities. For project inquiries or collaboration, reach out on LinkedIn.
+
+[Get in touch on LinkedIn →](https://www.linkedin.com/in/junaid-ahmed-altaf/)
